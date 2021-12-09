@@ -1,0 +1,48 @@
+.flex-container {
+  display: flex;
+  position: absolute;
+  width: 1014px;
+  height: 859px;
+  left: 216px;
+  top: 84px;
+
+background: #5A9BD5;
+}
+
+.flex-container > div {
+    position: absolute;
+    width: 253px;
+    height: 471px;
+    left: 200px;
+    top: 248px;
+    background: #FFC000;
+    
+
+
+}
+.flex-parent {
+    display: flex;
+  }
+  
+  .jc-center {
+    justify-content: center;
+  }
+  
+  button.margin-right {
+    margin-right: 20px;
+    position: absolute;
+width: 113px;
+height: 37px;
+left: 80px;
+top: 420px;
+
+background: #74AC47;
+border-radius: 6px;
+}
+div.a {
+    text-align: center;
+
+}
+div.b{
+    text-align: center;
+}
